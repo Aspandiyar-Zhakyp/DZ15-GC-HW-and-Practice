@@ -1,0 +1,13 @@
+C:\Users\Esetb\source\repos\GCHW\GCHW\bin\Debug\netcoreapp3.1\GCHW.exe
+C:\Users\Esetb\source\repos\GCHW\GCHW\bin\Debug\netcoreapp3.1\GCHW.deps.json
+C:\Users\Esetb\source\repos\GCHW\GCHW\bin\Debug\netcoreapp3.1\GCHW.runtimeconfig.json
+C:\Users\Esetb\source\repos\GCHW\GCHW\bin\Debug\netcoreapp3.1\GCHW.runtimeconfig.dev.json
+C:\Users\Esetb\source\repos\GCHW\GCHW\bin\Debug\netcoreapp3.1\GCHW.dll
+C:\Users\Esetb\source\repos\GCHW\GCHW\bin\Debug\netcoreapp3.1\GCHW.pdb
+C:\Users\Esetb\source\repos\GCHW\GCHW\obj\Debug\netcoreapp3.1\GCHW.csprojAssemblyReference.cache
+C:\Users\Esetb\source\repos\GCHW\GCHW\obj\Debug\netcoreapp3.1\GCHW.AssemblyInfoInputs.cache
+C:\Users\Esetb\source\repos\GCHW\GCHW\obj\Debug\netcoreapp3.1\GCHW.AssemblyInfo.cs
+C:\Users\Esetb\source\repos\GCHW\GCHW\obj\Debug\netcoreapp3.1\GCHW.csproj.CoreCompileInputs.cache
+C:\Users\Esetb\source\repos\GCHW\GCHW\obj\Debug\netcoreapp3.1\GCHW.dll
+C:\Users\Esetb\source\repos\GCHW\GCHW\obj\Debug\netcoreapp3.1\GCHW.pdb
+C:\Users\Esetb\source\repos\GCHW\GCHW\obj\Debug\netcoreapp3.1\GCHW.genruntimeconfig.cache
